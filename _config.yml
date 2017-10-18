@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+
+![useful image]({{ site.url }}/assets/image.png)
